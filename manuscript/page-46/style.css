@@ -1,3 +1,11 @@
+html, body {
+  height: 100vh;
+  width: 100vw;
+  background-image: url(https://raw.githubusercontent.com/marvindanig/breeder-reaction/master/assets/images/back_cover.jpg); 
+  background-size: 100% 100%;
+}
+
+/*
 body {
   width: 96vw;
   height: calc(100vh - 4vw);
@@ -49,4 +57,4 @@ body:before {
 
 h1 {
   color: hsla(358, 73%, 47%, 1);
-}
+} */

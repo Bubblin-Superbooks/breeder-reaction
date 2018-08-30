@@ -1,0 +1,8 @@
+p.chapter-begin:first-letter {
+  display: inline-block;
+  margin: 2vw 1vw 3vw 0;
+  float: left;
+  line-height: 12vw;
+  font-size: 20vw;
+  color: hsla(0, 0%, 0%, 1);
+}
