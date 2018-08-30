@@ -6,5 +6,6 @@
     "HEAD": "html"
   },
   "name": "Breeder Reaction",
-  "type": "text"
+  "type": "text",
+  "book_id": 642
 }
